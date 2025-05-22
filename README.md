@@ -47,7 +47,7 @@ This coursework explores concepts and applications of Embedded Intelligent and V
 **Hritick Jha**  
 Student ID: 77356744  
 Email: [jhahritick@example.com]   
-University Name Leeds Beckett university
+University Name/:  Leeds Beckett University
 
 ## 📄 License
 
